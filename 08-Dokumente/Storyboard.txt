@@ -1,0 +1,92 @@
+-Szene1
+	Camera steht in der futuristische Garage (seitlich )
+	Der Boden der Garage geht auf und der zusammengebaute Motor erscheint, mit den Haltern.
+	Camera macht um den Motor eine 360 Grad Drehung.
+									Dauer ca. 10 sec.	600 frames
+-Szene2
+	Camera steht (seitlich, hinter dem Motor ), wo man die Decke sieht.
+	Der Roboterarm kommt aus der Decke, zwei Laser Beams ( aus der Wand ) treffen auf der Mitte des Arms,
+	wo die Energie sich bundelt.
+	
+	Der Arm fährt nach hinten zu der Wand und holt den Rahmen.
+	Der Rahmen wird an dem Motor befestigt.
+	Um den Rahmen zubefestigen, kommt aus dem unteren Arm, acht kleine arme herraus und schrauben die Schrauben
+	fest.
+
+	Die Hinterradschwinge,mit Federbein, kommt aus dem Boden, mit einer Halterung.
+	Die Hinterradschwinge wird mit Hilfe der Halterung befestigt.
+									Dauer ca. 7 - 10sec.	600 frames
+ 
+	
+-Szene3
+	Camera steht seitlich, vorne, links vom Motorrad.
+	Die Auspuffanlage kommt aus dem Boden und wird befestigt.
+	
+	Camera steht seitlich, vorne, rechts vor dem Motorrad.
+	Der Kühler kommt ebenfalls aus dem Boden und wird an seinen Halterungen befestigt.
+									Dauer  5 sec.		300 frames
+-Szene4
+	Camera ist seitlich vom Motorrad.
+	Die Vordergabel, mit Schutzblech und Reifen kommt aus dem Boden und gleitet in die Gabelbrücke.
+	Unter der Gabel kommt eine Halterung aus dem Boden. Die Halterung am Motor fährt wieder in den Boden.
+	Der Boden ist unterhalb des Motors zu.
+	
+		Gleichzeitig
+	
+	Die Kette und der Hinterreifen kommen ebenfalls aus dem Boden.
+	Die Kette wird mit Hilfe einer Vorrichtung über das Kettenrad und Ritzel gezogen.
+	Die Vorrichtung teitl sich in zwei teile auf. Unterhalb der Kette und Oberhalb.
+
+	Das Cockpit wird von dem Arm montiert. Aus dem Unterarm kommen Kabel herraus.
+	Diese Kabel werden an das cockpit angesteckt. Dauer 2.sec
+	
+	
+									Dauer 10 sec.		600 frames
+	
+-Szene ( optional )
+	Camera steht seitlich, vorn, leicht oben.
+	Zwei Kabel grabbeln über den Motor. Diese zwei Kabel verbinden sich an der Kurbelwelleneingang.
+									Dauer 3 sec.		180 frames
+-Szene5
+	Camera ist seitlich, totale.
+	Die Heckverkleidung kommt, mit Hilfe einer Halterung aus dem Fußboden. 
+	Die Halterung verschwindet wieder im Fußboden.
+									Dauer ca. 5 sec.	300 frames
+-Szene6
+	Camera seitlich, halbschräg zum Anfang. 
+	Die Vorder- und Seitenverkleidung kommt mit Hilfe des Armes an die vorgesehene Stelle.
+	Das Unterteil der Verkleidung kommt aus dem Boden.
+	Die Tankhaupe kommt von oben aus der Decke. ( laser Beam oder Halterung )
+									Dauer 10 sec.		600 frames
+-Szene7
+	Camera macht eine 360 Grad Drehung um das Motorrad. Mit Nahaufnahmen ( Postprocessing )
+	Camera bleibt am Heck des Motorrades stehen.
+	Das Motorrad ist nun komplett Zusammengbaut.
+									Dauer 10 sec.		600 frames
+-Szene8
+	Camera ist am Heck des Motorrades. Camera macht einen Zoom in die Cockpitansicht.
+	Das Licht wird dunkel.
+	Die Led´s des Cockpit´s leuchten auf.
+	Das Motorrad geht an, 
+	Sound: Motorgeräusch
+									Dauer 5 sec.		300 frames
+
+-Szene9
+	Die Camera ist seitlich vom Motorrad, ( Nahaufnahme ) 
+	Die Ü-Eifigure steht auf dem fiebrierenden Tankdeckel.
+	Man hört immer noch den Sound des Motors.
+									Dauer 5 sec.
+
+
+
+
+								Gesamtzeit   73 sec.
+
+
+							Gesamtframes pro second 4380 bei 60 frames pro second
+
+Link
+
+Music
+
+http://freemusicarchive.org/genre/Chill-out/
